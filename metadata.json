@@ -1,0 +1,6 @@
+{
+  "name": "TamaTask",
+  "description": "An interactive AI Tamagotchi companion synced with Google Calendar and Tasks for deadline reminders and friendly dialogue",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

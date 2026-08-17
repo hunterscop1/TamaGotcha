@@ -1,0 +1,64 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tamagotchi Egg Shell Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,23 C38,23 27,37 27,57 C27,74 38,85 54,85 C70,85 81,74 81,57 C81,37 70,23 54,23 Z" />
+
+    <!-- Tamagotchi Shell Rim Shadow -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M54,27 C40,27 31,39 31,57 C31,71 40,81 54,81 C68,81 77,71 77,57 C77,39 68,27 54,27 Z" />
+
+    <!-- Inner LCD Screen (Cyan/Teal Retro LCD) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M38,38 L70,38 A4,4 0 0,1 74,42 L74,66 A4,4 0 0,1 70,70 L38,70 A4,4 0 0,1 34,66 L34,42 A4,4 0 0,1 38,38 Z" />
+
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M37,41 L71,41 A2,2 0 0,1 73,43 L73,65 A2,2 0 0,1 71,67 L37,67 A2,2 0 0,1 35,65 L35,43 A2,2 0 0,1 37,41 Z" />
+
+    <!-- Cute Pixel Pet Character (Yellow Star Pet) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M48,46 h12 v2 h-12 z M46,48 h16 v12 h-16 z M44,52 h20 v6 h-20 z M48,60 h12 v2 h-12 z" />
+
+    <!-- Pet Antenna / Crown Star -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M53,43 h2 v3 h-2 z M52,42 h4 v2 h-4 z" />
+
+    <!-- Pet Eyes -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M49,52 h2 v3 h-2 z M57,52 h2 v3 h-2 z" />
+
+    <!-- Pet Cheeks (Blush) -->
+    <path
+        android:fillColor="#FB7185"
+        android:pathData="M46,55 h2 v2 h-2 z M60,55 h2 v2 h-2 z" />
+
+    <!-- Pet Smile -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M52,56 h4 v1 h-4 z" />
+
+    <!-- 3 Physical Tamagotchi Buttons at Bottom -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M44,77 a2.5,2.5 0 1,0 0.01,0 Z M54,77 a2.5,2.5 0 1,0 0.01,0 Z M64,77 a2.5,2.5 0 1,0 0.01,0 Z" />
+
+    <!-- Keychain Loop on Top -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M51,20 h6 v4 h-6 z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M52,21 h4 v2 h-4 z" />
+
+</vector>
